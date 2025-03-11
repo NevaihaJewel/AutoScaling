@@ -39,13 +39,13 @@ This project demonstrates the deployment and management of amazon EC2 instances,
 <b>Step 2:</b> Configuring Instace Details<br/>
 <img src="https://imgur.com/x3o9aNo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-- Set up network settings, including VPC and subnet selection.
+- Set up network settings, including VPC, and subnet selection.
 - Attached storage volumes and assigned IAM roles for permissions.
 <br />
 <br />
 </p>
 <p align="center">
-<b>Step 3:</b> Setting Up Auto Scalingy<br/>
+<b>Step 3:</b> Setting Up Auto Scaling<br/>
 <img src="https://imgur.com/RsNQ55Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 - Created an Auto Scaling Group to maintain instance availability.
