@@ -49,7 +49,7 @@ This project demonstrates the deployment and management of amazon EC2 instances,
 <img src="https://imgur.com/RsNQ55Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 - Created an Auto Scaling Group to maintain instance availability.
-- COnfigured scaling policies based on CPU utilization and traffic load.
+- Configured scaling policies based on CPU utilization and traffic load.
 <br />
 <br />
 </p>
